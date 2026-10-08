@@ -14,7 +14,7 @@
 		C67B97022FB14825009943AF /* Exceptions for "OccupancyMapper" folder in "OccupancyMapper" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = C67B96F52FB14824009943AF /* OccupancyMapper */;
 		};
@@ -148,7 +148,7 @@
 				DEVELOPMENT_TEAM = 96M9Y5VGPD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OccupancyMapper/Info.plist;
+				INFOPLIST_FILE = OccupancyMapper/App/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = CAMERA_USAGE_DESCRIPTION;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -183,7 +183,7 @@
 				DEVELOPMENT_TEAM = 96M9Y5VGPD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OccupancyMapper/Info.plist;
+				INFOPLIST_FILE = OccupancyMapper/App/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = CAMERA_USAGE_DESCRIPTION;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
